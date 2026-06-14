@@ -2,3 +2,5 @@ kagglehub
 pandas
 numpy
 matplotlib
+scipy
+implicit
